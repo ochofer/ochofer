@@ -1,4 +1,4 @@
-Quantitative researcher in Amsterdam. PhD in quantitative political science (Warwick, 2026), now applying the same methods to financial market data.
+Quantitative researcher in Amsterdam. PhD in Politics and International Studies (Warwick, 2026), empirical econometrics on panel data, now applied to financial market data.
 
 ### Public work
 
