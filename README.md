@@ -8,9 +8,9 @@ Quantitative researcher in Amsterdam. PhD in Politics and International Studies 
 
 It carries a measurement note on the data underneath it: of 19 apparent ownership changes checked by hand against exchange filings, company statements and press releases, 12 had no corporate event behind them.
 
-One return test was specified and set aside before it ran, on a power calculation published in the repository; a second was pre-registered, run, and reported with the minimum detectable effect that makes it readable.
+One return test was specified and set aside before it ran, on a power calculation published in the repository. A second was pre-registered, run, and reported with the minimum detectable effect that makes it readable.
 
-**[rules-based-portfolio](https://github.com/ochofer/rules-based-portfolio).** A real-money portfolio run under written rules: 70 per cent in a global equity ETF and 30 per cent in a euro government bond ETF. The mandate's risk limit, a worst fall of about one third, sets the split: on monthly euro returns from 1999 to 2025, 70 per cent is the largest equity weight whose worst fall stayed within 35 per cent. The rules were fixed and tagged before the first order, and a program and a dashboard keep its record.
+**[rules-based-portfolio](https://github.com/ochofer/rules-based-portfolio).** A real-money portfolio run under written rules: 70 per cent in a global equity ETF and 30 per cent in a euro government bond ETF. The mandate's risk limit, a worst fall of about one third, sets the split: on monthly euro returns from 1999 to 2025, 70 per cent is the largest equity weight whose worst fall stayed within 35 per cent. The rules were fixed and tagged before the first order, and a program and a dashboard keep its record. The dashboard, rebuilt every Monday and on each cycle day, opens at [carlohofer.com/rules-based-portfolio](https://www.carlohofer.com/rules-based-portfolio/).
 
 ### Methods
 
