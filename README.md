@@ -14,7 +14,7 @@ One return test was specified and set aside before it ran, on a power calculatio
 
 [Note (PDF) ↗](https://github.com/ochofer/paper1-hazard-exposure-data/releases/download/note-v1.2/what-a-vintage-difference-measures.pdf) · [Project page ↗](https://www.carlohofer.com/projects/climate-risk-equity-signal/)
 
-**[rules-based-portfolio](https://github.com/ochofer/rules-based-portfolio).** A real-money portfolio run under written rules: 70 per cent in a global equity ETF and 30 per cent in a euro government bond ETF. The mandate's risk limit, a worst fall of about one third, sets the split: on monthly euro returns from 1999 to 2025, 70 per cent is the largest equity weight whose worst fall stayed within 35 per cent. The rules were fixed and tagged before the first order, and a program and a dashboard keep its record. The dashboard is rebuilt every Monday and on each cycle day.
+**[rules-based-portfolio](https://github.com/ochofer/rules-based-portfolio).** Runs a small real-money portfolio under rules published before the first order: two UCITS ETFs at 70/30, a monthly cycle with pre-trade checks, look-through exposure and ex-ante risk on a public dashboard.
 
 [Dashboard ↗](https://www.carlohofer.com/rules-based-portfolio/) · [Project page ↗](https://www.carlohofer.com/projects/rules-based-portfolio/)
 
