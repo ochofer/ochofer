@@ -2,7 +2,7 @@ Quantitative researcher in Amsterdam. PhD in Politics and International Studies 
 
 ### Public work
 
-**[optimal-vs-naive-diversification](https://github.com/ochofer/optimal-vs-naive-diversification).** A replication of DeMiguel, Garlappi and Uppal (2009) on Ken French's data, against bands fixed before the code ran, and their question put to a long-only index-tracking mandate on 49 industries from 1979 to 2026, comparing five covariance estimators on realised tracking error. Thirteen notebooks, 92 tests and a ten-page note.
+**[optimal-vs-naive-diversification](https://github.com/ochofer/optimal-vs-naive-diversification).** A replication of DeMiguel, Garlappi and Uppal (2009) on Ken French's data, against bands fixed before the code ran, and their question put to a long-only index-tracking mandate on 49 industries from 1979 to 2026, comparing five covariance estimators on realised tracking error. Thirteen notebooks, 92 tests and an eleven-page note.
 
 [Dashboard ↗](https://www.carlohofer.com/optimal-vs-naive-diversification/dashboard/B-P_dashboard.html) · [Note (PDF) ↗](https://www.carlohofer.com/optimal-vs-naive-diversification/note/B-P_note_2026-10.pdf) · [Project page ↗](https://www.carlohofer.com/projects/optimal-vs-naive-diversification/)
 
