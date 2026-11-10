@@ -14,6 +14,10 @@ One return test was specified and set aside before it ran, on a power calculatio
 
 [Note (PDF) ↗](https://github.com/ochofer/paper1-hazard-exposure-data/releases/download/note-v1.2/what-a-vintage-difference-measures.pdf) · [Project page ↗](https://www.carlohofer.com/projects/climate-risk-equity-signal/)
 
+**[volatility-managed-portfolios](https://github.com/ochofer/volatility-managed-portfolios).** A replication of Moreira and Muir's volatility-managed portfolios and of the real-time critique on Ken French's factors, then the months after the paper's sample. In build: the data and the signal are in place, and nothing in it is a result yet.
+
+[Project page ↗](https://www.carlohofer.com/projects/volatility-managed-portfolios/)
+
 **[rules-based-portfolio](https://github.com/ochofer/rules-based-portfolio).** Runs a small real-money portfolio under rules published before the first order: two UCITS ETFs at 70/30, a monthly cycle with pre-trade checks, look-through exposure and ex-ante risk on a public dashboard.
 
 [Dashboard ↗](https://www.carlohofer.com/rules-based-portfolio/) · [Project page ↗](https://www.carlohofer.com/projects/rules-based-portfolio/)
