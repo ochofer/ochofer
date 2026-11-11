@@ -18,6 +18,10 @@ One return test was specified and set aside before it ran, on a power calculatio
 
 [Project page ↗](https://www.carlohofer.com/projects/volatility-managed-portfolios/)
 
+**[stock-level-tracking](https://github.com/ochofer/stock-level-tracking).** A point-in-time S&P 500 universe from CRSP and Compustat, a long-only mandate held close to its cap-weighted benchmark, and an attribution of its active return by sector. In build: the data layer is in place and checked, and nothing of the mandate is a result yet.
+
+[Project page ↗](https://www.carlohofer.com/projects/stock-level-tracking/)
+
 **[rules-based-portfolio](https://github.com/ochofer/rules-based-portfolio).** Runs a small real-money portfolio under rules published before the first order: two UCITS ETFs at 70/30, a monthly cycle with pre-trade checks, look-through exposure and ex-ante risk on a public dashboard.
 
 [Dashboard ↗](https://www.carlohofer.com/rules-based-portfolio/) · [Project page ↗](https://www.carlohofer.com/projects/rules-based-portfolio/)
