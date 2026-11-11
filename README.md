@@ -22,7 +22,7 @@ One return test was specified and set aside before it ran, on a power calculatio
 
 [Project page ↗](https://www.carlohofer.com/projects/stock-level-tracking/)
 
-**[rules-based-portfolio](https://github.com/ochofer/rules-based-portfolio).** Runs a small real-money portfolio under rules published before the first order: two UCITS ETFs at 70/30, a monthly cycle with pre-trade checks, look-through exposure and ex-ante risk on a public dashboard.
+**[rules-based-portfolio](https://github.com/ochofer/rules-based-portfolio).** Runs a real-money portfolio under rules published before the first order: two UCITS ETFs at 70/30, a monthly cycle with pre-trade checks, look-through exposure and ex-ante risk on a public dashboard.
 
 [Dashboard ↗](https://www.carlohofer.com/rules-based-portfolio/) · [Project page ↗](https://www.carlohofer.com/projects/rules-based-portfolio/)
 
