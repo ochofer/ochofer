@@ -14,7 +14,7 @@ One return test was specified and set aside before it ran, on a power calculatio
 
 [Note (PDF) ↗](https://github.com/ochofer/paper1-hazard-exposure-data/releases/download/note-v1.2/what-a-vintage-difference-measures.pdf) · [Project page ↗](https://www.carlohofer.com/projects/climate-risk-equity-signal/)
 
-**[volatility-managed-portfolios](https://github.com/ochofer/volatility-managed-portfolios).** A replication of Moreira and Muir's volatility-managed portfolios and of the real-time critique on Ken French's factors, then the months after the paper's sample. In build: the data and the signal are in place, and nothing in it is a result yet.
+**[volatility-managed-portfolios](https://github.com/ochofer/volatility-managed-portfolios).** Volatility estimation and position sizing on Ken French's equity factors, backtested out of sample and without look-ahead, replicating Moreira and Muir (2017) and Cederburg, O'Doherty, Wang and Yan (2020). In build: the data and the signal are in place, and nothing in it is a result yet.
 
 [Project page ↗](https://www.carlohofer.com/projects/volatility-managed-portfolios/)
 
