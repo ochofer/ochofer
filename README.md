@@ -14,9 +14,9 @@ One return test was specified and set aside before it ran, on a power calculatio
 
 [Note (PDF) ↗](https://github.com/ochofer/paper1-hazard-exposure-data/releases/download/note-v1.2/what-a-vintage-difference-measures.pdf) · [Project page ↗](https://www.carlohofer.com/projects/climate-risk-equity-signal/)
 
-**[volatility-managed-portfolios](https://github.com/ochofer/volatility-managed-portfolios).** Volatility estimation and position sizing on Ken French's equity factors, backtested out of sample and without look-ahead, replicating Moreira and Muir (2017) and Cederburg, O'Doherty, Wang and Yan (2020). In build: its findings are stated when the study is complete.
+**[volatility-managed-portfolios](https://github.com/ochofer/volatility-managed-portfolios).** Volatility estimation and position sizing on Ken French's equity factors, backtested out of sample and without look-ahead, replicating Moreira and Muir (2017) and Cederburg, O'Doherty, Wang and Yan (2020).
 
-[Project page ↗](https://www.carlohofer.com/projects/volatility-managed-portfolios/)
+[Dashboard ↗](https://www.carlohofer.com/volatility-managed-portfolios/dashboard/B-Q_dashboard.html) · [Note (PDF) ↗](https://www.carlohofer.com/volatility-managed-portfolios/note/B-Q_note_2026-11.pdf) · [Project page ↗](https://www.carlohofer.com/projects/volatility-managed-portfolios/)
 
 **[stock-level-tracking](https://github.com/ochofer/stock-level-tracking).** A point-in-time S&P 500 universe from CRSP and Compustat, a long-only mandate held close to its cap-weighted benchmark, and an attribution of its active return by sector. In build: its findings are stated when the study is complete.
 
