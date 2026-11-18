@@ -18,9 +18,9 @@ One return test was specified and set aside before it ran, on a power calculatio
 
 [Dashboard ↗](https://www.carlohofer.com/volatility-managed-portfolios/dashboard/B-Q_dashboard.html) · [Note (PDF) ↗](https://www.carlohofer.com/volatility-managed-portfolios/note/B-Q_note_2026-11.pdf) · [Project page ↗](https://www.carlohofer.com/projects/volatility-managed-portfolios/)
 
-**[stock-level-tracking](https://github.com/ochofer/stock-level-tracking).** A point-in-time S&P 500 universe from CRSP and Compustat, a long-only mandate held close to its cap-weighted benchmark, and an attribution of its active return by sector. In build: its findings are stated when the study is complete.
+**[stock-level-tracking](https://github.com/ochofer/stock-level-tracking).** A point-in-time S&P 500 universe from CRSP and Compustat, a long-only mandate held close to its cap-weighted benchmark, and an attribution of its active return by sector.
 
-[Project page ↗](https://www.carlohofer.com/projects/stock-level-tracking/)
+[Dashboard ↗](https://www.carlohofer.com/stock-level-tracking/dashboard/) · [Note (PDF) ↗](https://www.carlohofer.com/stock-level-tracking/note/stock-level-tracking_note_2026-11.pdf) · [Project page ↗](https://www.carlohofer.com/projects/stock-level-tracking/)
 
 **[rules-based-portfolio](https://github.com/ochofer/rules-based-portfolio).** Runs a real-money portfolio under rules published before the first order: two UCITS ETFs at 70/30, a monthly cycle with pre-trade checks, look-through exposure and ex-ante risk on a public dashboard.
 
