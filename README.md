@@ -10,7 +10,7 @@ Quantitative researcher in Amsterdam. PhD in Politics and International Studies 
 
 It carries a measurement note on the data underneath it: of 19 apparent ownership changes checked by hand against exchange filings, company statements and press releases, 12 had no corporate event behind them.
 
-One return test was specified and set aside before it ran, on a power calculation published in the repository. A second was pre-registered, run, and reported with the minimum detectable effect that makes it readable.
+One return test was specified and set aside before it ran, on a power calculation published in the repository. A second was run under a rule written in the header of its script, and the measurement note reports it.
 
 [Note (PDF) ↗](https://github.com/ochofer/paper1-hazard-exposure-data/releases/download/note-v1.2/what-a-vintage-difference-measures.pdf) · [Project page ↗](https://www.carlohofer.com/projects/climate-risk-equity-signal/)
 
