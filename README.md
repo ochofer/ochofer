@@ -2,19 +2,19 @@ Quantitative researcher in Amsterdam. PhD in Politics and International Studies 
 
 ### Public work
 
-**[optimal-vs-naive-diversification](https://github.com/ochofer/optimal-vs-naive-diversification).** A replication of DeMiguel, Garlappi and Uppal (2009) on Ken French's data, against bands fixed before the code ran, and their question put to a long-only index-tracking mandate on 49 industries from 1979 to 2026, comparing five covariance estimators on realised tracking error. Sixteen notebooks, 107 tests and two eleven-page notes.
+**[optimal-vs-naive-diversification](https://github.com/ochofer/optimal-vs-naive-diversification).** A replication of DeMiguel, Garlappi and Uppal (2009) on Ken French's data, and their question put to a long-only index-tracking mandate on 49 industries from 1979 to 2026, comparing five covariance estimators on realised tracking error.
 
 [Dashboard ↗](https://www.carlohofer.com/optimal-vs-naive-diversification/dashboard/B-P_dashboard.html) · [Note (PDF) ↗](https://www.carlohofer.com/optimal-vs-naive-diversification/note/B-P_note_2026-10.pdf) · [Project page ↗](https://www.carlohofer.com/projects/optimal-vs-naive-diversification/)
 
-**[paper1-hazard-exposure-data](https://github.com/ochofer/paper1-hazard-exposure-data).** An ownership graph linking 328 listed companies to the 5,115 tracked assets they own, built from Global Energy Monitor's free tracker and published with its code before any analysis.
+**[paper1-hazard-exposure-data](https://github.com/ochofer/paper1-hazard-exposure-data).** An ownership graph linking 328 ownership entities in the US and developed Europe, 302 of them listed companies with a price series, to 5,115 asset holdings, built from Global Energy Monitor's free tracker.
 
-It carries a measurement note on the data underneath it: of 19 apparent ownership changes checked by hand against exchange filings, company statements and press releases, 12 had no corporate event behind them.
+It carries a measurement note on the data underneath it: of 19 apparent ownership changes drawn at random and checked by hand against exchange filings, company statements and press releases, 12 had no corporate event behind them.
 
 One return test was specified and set aside before it ran, on a power calculation published in the repository. A second was run under a rule written in the header of its script, and the measurement note reports it.
 
-[Note (PDF) ↗](https://github.com/ochofer/paper1-hazard-exposure-data/releases/download/note-v1.2/what-a-vintage-difference-measures.pdf) · [Project page ↗](https://www.carlohofer.com/projects/climate-risk-equity-signal/)
+[Note (PDF) ↗](https://github.com/ochofer/paper1-hazard-exposure-data/releases/download/note-v1.3/what-a-vintage-difference-measures.pdf) · [Project page ↗](https://www.carlohofer.com/projects/climate-risk-equity-signal/)
 
-**[volatility-managed-portfolios](https://github.com/ochofer/volatility-managed-portfolios).** Volatility estimation and position sizing on Ken French's equity factors, backtested out of sample and without look-ahead, replicating Moreira and Muir (2017) and Cederburg, O'Doherty, Wang and Yan (2020).
+**[volatility-managed-portfolios](https://github.com/ochofer/volatility-managed-portfolios).** Volatility estimation and position sizing on Ken French's equity factors, replicating Moreira and Muir (2017) and the real-time critique of Cederburg, O'Doherty, Wang and Yan (2020).
 
 [Dashboard ↗](https://www.carlohofer.com/volatility-managed-portfolios/dashboard/B-Q_dashboard.html) · [Note (PDF) ↗](https://www.carlohofer.com/volatility-managed-portfolios/note/B-Q_note_2026-11.pdf) · [Project page ↗](https://www.carlohofer.com/projects/volatility-managed-portfolios/)
 
