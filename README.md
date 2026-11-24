@@ -12,7 +12,7 @@ It carries a measurement note on the data underneath it: of 19 apparent ownershi
 
 One return test was specified and set aside before it ran, on a power calculation published in the repository. A second was run under a rule written in the header of its script, and the measurement note reports it.
 
-[Note (PDF) ↗](https://github.com/ochofer/paper1-hazard-exposure-data/releases/download/note-v1.3/what-a-vintage-difference-measures.pdf) · [Project page ↗](https://www.carlohofer.com/projects/climate-risk-equity-signal/)
+[Note (PDF) ↗](https://github.com/ochofer/paper1-hazard-exposure-data/releases/download/note-v1.4/what-a-vintage-difference-measures.pdf) · [Project page ↗](https://www.carlohofer.com/projects/climate-risk-equity-signal/)
 
 **[volatility-managed-portfolios](https://github.com/ochofer/volatility-managed-portfolios).** Volatility estimation and position sizing on Ken French's equity factors, replicating Moreira and Muir (2017) and the real-time critique of Cederburg, O'Doherty, Wang and Yan (2020).
 
@@ -21,6 +21,10 @@ One return test was specified and set aside before it ran, on a power calculatio
 **[stock-level-tracking](https://github.com/ochofer/stock-level-tracking).** A point-in-time S&P 500 universe from CRSP and Compustat, a long-only mandate held close to its cap-weighted benchmark, and an attribution of its active return by sector.
 
 [Dashboard ↗](https://www.carlohofer.com/stock-level-tracking/dashboard/) · [Note (PDF) ↗](https://www.carlohofer.com/stock-level-tracking/note/stock-level-tracking_note_2026-11.pdf) · [Project page ↗](https://www.carlohofer.com/projects/stock-level-tracking/)
+
+**[ml-return-prediction-backtest-overfitting](https://github.com/ochofer/ml-return-prediction-backtest-overfitting).** Machine learning and return forecasting on the S&P 500's members: six models from least squares to a neural network, out of sample from 2006 to 2024, following the method of Gu, Kelly and Xiu (2020), with the best result corrected for overfitting. In build: its findings are stated when the study is complete.
+
+[Project page ↗](https://www.carlohofer.com/projects/ml-return-prediction-backtest-overfitting/)
 
 **[rules-based-portfolio](https://github.com/ochofer/rules-based-portfolio).** Runs a real-money portfolio under rules published before the first order, with every later change dated in the repository: two UCITS ETFs at 70/30, a monthly cycle with pre-trade checks, look-through exposure and ex-ante risk on a public dashboard.
 
